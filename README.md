@@ -1,4 +1,11 @@
-# 👩🏻‍💻 Vini
+# Hi there :wave: I'm Vini 🧑🏻‍💻:brazil: 
+
+I'm a Brazilian tech student, curious by nature and always eager to learn new things.  
+I enjoy turning ideas into code, exploring and understanding how things work behind the scenes.
+
+Progress isn't about perfection, but about consistency, curiosity,  
+and learning from every attempt... bugs included :sweat_smile:
+
 
 ### 🤖 Languages ​​and Technologies
 <img 
