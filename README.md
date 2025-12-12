@@ -19,6 +19,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
+<img align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="50px" 
+    style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
 <img  align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
@@ -32,6 +39,8 @@
     width="50px" 
     style="padding-right: 10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+  
 
   <img align="left" 
     alt="Postman"
